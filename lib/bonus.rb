@@ -21,7 +21,7 @@ def bonus
   }
 
  def kill_the_kids
-epic_tragedy[:Montague][:hero][:status] = "dead"
+epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 end 
 
